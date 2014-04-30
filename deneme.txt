@@ -1,0 +1,1 @@
+Git versiyon kontrol sistemi yani bir dosya uzerinde ya da kod yazarken yaptigin degisikleri gormeni saaglar. Ayrica birden fazla kisi projede calisken  onlarin yaptigi degisiklikleri takip etmemizi saglar.
