@@ -1,0 +1,1 @@
+print "Kocami cok seviyorum"
